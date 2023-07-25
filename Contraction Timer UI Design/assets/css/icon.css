@@ -1,0 +1,32 @@
+.icon {
+  width:44px;
+  height: 44px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+.icon-sm{
+  width: 16px;
+  height: 16px;
+}
+
+.icon-lg {
+  width: 24px;
+  height: 24px;
+}
+
+.icon-xl{
+  width: 44px;
+  height: 44px;
+}
+.icon-bell {
+  background-image: url('../icons/Frame.svg');
+}
+
+.icon-arrow-left {
+  background-image: url('../icons/Frame..svg');
+}

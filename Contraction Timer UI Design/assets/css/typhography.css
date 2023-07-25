@@ -1,0 +1,58 @@
+.font-500{
+  font-weight:500;
+}
+
+.font-700{
+  font-weight: 700;
+}
+
+.font-400{
+  font-weight:400;
+}
+
+.text-size-54px {
+  font-size:54px;
+}
+
+.text-size-18px{
+  font-size:18px;
+}
+.text-size-16px{
+  font-size:16px;
+
+}
+.flex{
+  display:flex;
+}
+
+.justify-center{
+  justify-content: center;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.items-center{
+  align-self: center;
+}
+
+.p-10px{
+  padding: var(--size-sm);
+}
+
+.p-16px{
+  padding: var(--size-md);
+}
+
+.p-20px{
+  padding: var(--size-lg);
+}
+
+.p-24px{
+  padding: var(--size-xl);
+}
+
+.p-32px{
+  padding: var(--size-2xl);
+}
